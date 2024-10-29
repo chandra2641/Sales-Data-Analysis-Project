@@ -1,0 +1,51 @@
+Date,Product_ID,Product_Name,Category,Region,Quantity_Sold,Price_per_Unit,Total_Sales
+08-04-2023,P001,Jacket,Apparel,North,9,80,720
+19-12-2023,P002,Tennis Racket,Sports,East,1,60,60
+24-04-2023,P003,Headphones,Electronics,North,10,100,1000
+12-07-2023,P004,Blender,Home Goods,West,4,45,180
+22-02-2023,P005,Tennis Racket,Sports,West,6,60,360
+08-10-2023,P006,Tennis Racket,Sports,North,9,60,540
+19-08-2023,P007,Vacuum,Home Goods,North,8,100,800
+01-01-2024,P008,Lamp,Home Goods,North,1,25,25
+23-09-2023,P009,Laptop,Electronics,West,9,1000,9000
+19-09-2023,P010,Soccer Ball,Sports,North,1,20,20
+12-03-2023,P011,Blender,Home Goods,North,4,45,180
+20-01-2023,P012,Soccer Ball,Sports,North,10,20,200
+16-06-2023,P013,Headphones,Electronics,South,6,100,600
+16-09-2023,P014,Headphones,Electronics,East,10,100,1000
+16-07-2023,P015,Jacket,Apparel,North,9,80,720
+04-04-2023,P016,Jacket,Apparel,West,6,80,480
+24-04-2023,P017,Vacuum,Home Goods,East,9,100,900
+25-09-2023,P018,Sneakers,Apparel,East,2,60,120
+23-11-2023,P019,Lamp,Home Goods,South,3,25,75
+10-06-2023,P020,Soccer Ball,Sports,East,8,20,160
+27-10-2023,P021,Toaster,Home Goods,South,4,30,120
+01-04-2023,P022,T-shirt,Apparel,West,3,20,60
+07-02-2023,P023,Jeans,Apparel,South,8,50,400
+16-03-2023,P024,Headphones,Electronics,East,7,100,700
+19-05-2023,P025,Laptop,Electronics,East,9,1000,9000
+17-12-2023,P026,Tablet,Electronics,East,1,400,400
+15-01-2023,P027,Tennis Racket,Sports,East,4,60,240
+03-07-2023,P028,Laptop,Electronics,East,8,1000,8000
+13-12-2023,P029,Smartphone,Electronics,East,3,800,2400
+12-08-2023,P030,Smartphone,Electronics,South,5,800,4000
+24-08-2023,P031,Tablet,Electronics,West,5,400,2000
+20-09-2023,P032,Laptop,Electronics,West,2,1000,2000
+18-06-2023,P033,Dumbbell,Sports,North,8,15,120
+03-11-2023,P034,Soccer Ball,Sports,North,7,20,140
+18-01-2023,P035,Tablet,Electronics,East,2,400,800
+08-07-2023,P036,Dumbbell,Sports,East,4,15,60
+22-11-2023,P037,Laptop,Electronics,West,2,1000,2000
+29-12-2023,P038,Laptop,Electronics,East,5,1000,5000
+24-12-2023,P039,Basketball,Sports,North,2,25,50
+17-03-2023,P040,Basketball,Sports,East,10,25,250
+21-05-2023,P041,Toaster,Home Goods,West,10,30,300
+08-08-2023,P042,Blender,Home Goods,South,10,45,450
+04-06-2023,P043,Smartphone,Electronics,North,9,800,7200
+21-10-2023,P044,Soccer Ball,Sports,South,3,20,60
+13-10-2023,P045,Jeans,Apparel,North,6,50,300
+07-11-2023,P046,Laptop,Electronics,West,4,1000,4000
+22-07-2023,P047,Soccer Ball,Sports,South,2,20,40
+03-01-2023,P048,Tennis Racket,Sports,South,3,60,180
+14-02-2023,P049,Tablet,Electronics,East,3,400,1200
+22-04-2023,P050,Tennis Racket,Sports,West,4,60,240
